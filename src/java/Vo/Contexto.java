@@ -7,7 +7,7 @@ package Vo;
 
 /**
  *
- * @author JCBOT
+ * @author Sebastian RS
  */
 public class Contexto {
 

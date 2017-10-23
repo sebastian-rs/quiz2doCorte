@@ -23,7 +23,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author JCBOT
+ * @author Sebastian RS
  */
 public class modelo extends HttpServlet {
 

@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author JCBOT
+ * @author Sebastian RS
  */
 public class contexto extends HttpServlet {
 
